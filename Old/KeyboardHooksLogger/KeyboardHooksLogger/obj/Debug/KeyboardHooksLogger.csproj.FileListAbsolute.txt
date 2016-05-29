@@ -1,0 +1,9 @@
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyboardHooksLogger\KeyboardHooksLogger\bin\Debug\KeyboardHooksLogger.exe.config
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyboardHooksLogger\KeyboardHooksLogger\bin\Debug\KeyboardHooksLogger.exe
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyboardHooksLogger\KeyboardHooksLogger\bin\Debug\KeyboardHooksLogger.pdb
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyboardHooksLogger\KeyboardHooksLogger\obj\Debug\KeyboardHooksLogger.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyboardHooksLogger\KeyboardHooksLogger\obj\Debug\KeyboardHooksLogger.Form1.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyboardHooksLogger\KeyboardHooksLogger\obj\Debug\KeyboardHooksLogger.Properties.Resources.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyboardHooksLogger\KeyboardHooksLogger\obj\Debug\KeyboardHooksLogger.csproj.GenerateResource.Cache
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyboardHooksLogger\KeyboardHooksLogger\obj\Debug\KeyboardHooksLogger.exe
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyboardHooksLogger\KeyboardHooksLogger\obj\Debug\KeyboardHooksLogger.pdb

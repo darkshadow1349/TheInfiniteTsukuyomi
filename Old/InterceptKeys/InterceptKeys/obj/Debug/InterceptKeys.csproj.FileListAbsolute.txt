@@ -1,0 +1,6 @@
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\InterceptKeys\InterceptKeys\bin\Debug\InterceptKeys.exe.config
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\InterceptKeys\InterceptKeys\bin\Debug\InterceptKeys.exe
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\InterceptKeys\InterceptKeys\bin\Debug\InterceptKeys.pdb
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\InterceptKeys\InterceptKeys\obj\Debug\InterceptKeys.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\InterceptKeys\InterceptKeys\obj\Debug\InterceptKeys.exe
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\InterceptKeys\InterceptKeys\obj\Debug\InterceptKeys.pdb

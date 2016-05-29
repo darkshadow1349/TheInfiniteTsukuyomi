@@ -1,0 +1,8 @@
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyLoggerTest\KeyLoggerTest\bin\Debug\KeyLoggerTest.exe.config
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyLoggerTest\KeyLoggerTest\bin\Debug\KeyLoggerTest.exe
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyLoggerTest\KeyLoggerTest\bin\Debug\KeyLoggerTest.pdb
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyLoggerTest\KeyLoggerTest\obj\Debug\KeyLoggerTest.Form1.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyLoggerTest\KeyLoggerTest\obj\Debug\KeyLoggerTest.Properties.Resources.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyLoggerTest\KeyLoggerTest\obj\Debug\KeyLoggerTest.csproj.GenerateResource.Cache
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyLoggerTest\KeyLoggerTest\obj\Debug\KeyLoggerTest.exe
+C:\Users\sam\Documents\Visual Studio 2015\Projects\InfiniteTsukuyomi\KeyLoggerTest\KeyLoggerTest\obj\Debug\KeyLoggerTest.pdb
