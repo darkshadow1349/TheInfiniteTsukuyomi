@@ -1,1 +1,9 @@
 D:\Workspace\InfiniteTsukuyomi\Branch\Branch\bin\Debug\Branch.exe.config
+D:\Workspace\TheInfiniteTsukuyomi\Branch\Branch\bin\Debug\Branch.exe.config
+D:\Workspace\TheInfiniteTsukuyomi\Branch\Branch\obj\Debug\Branch.Properties.Resources.resources
+D:\Workspace\TheInfiniteTsukuyomi\Branch\Branch\obj\Debug\Branch.csproj.GenerateResource.Cache
+D:\Workspace\TheInfiniteTsukuyomi\Branch\Branch\bin\Debug\Branch.exe
+D:\Workspace\TheInfiniteTsukuyomi\Branch\Branch\bin\Debug\Branch.pdb
+D:\Workspace\TheInfiniteTsukuyomi\Branch\Branch\obj\Debug\Branch.exe
+D:\Workspace\TheInfiniteTsukuyomi\Branch\Branch\obj\Debug\Branch.pdb
+D:\Workspace\TheInfiniteTsukuyomi\Branch\Branch\obj\Debug\Branch.csprojResolveAssemblyReference.cache

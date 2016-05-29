@@ -8,3 +8,13 @@ D:\Workspace\InfiniteTsukuyomi\TreeOfLife\TreeOfLife\obj\Debug\TreeOfLife.csproj
 D:\Workspace\InfiniteTsukuyomi\TreeOfLife\TreeOfLife\obj\Debug\TreeOfLife.exe
 D:\Workspace\InfiniteTsukuyomi\TreeOfLife\TreeOfLife\obj\Debug\TreeOfLife.pdb
 D:\Workspace\InfiniteTsukuyomi\TreeOfLife\TreeOfLife\obj\Debug\TreeOfLife.BranchManager.resources
+D:\Workspace\TheInfiniteTsukuyomi\TreeOfLife\TreeOfLife\bin\Debug\TreeOfLife.exe.config
+D:\Workspace\TheInfiniteTsukuyomi\TreeOfLife\TreeOfLife\obj\Debug\TreeOfLife.exe
+D:\Workspace\TheInfiniteTsukuyomi\TreeOfLife\TreeOfLife\obj\Debug\TreeOfLife.pdb
+D:\Workspace\TheInfiniteTsukuyomi\TreeOfLife\TreeOfLife\bin\Debug\TreeOfLife.exe
+D:\Workspace\TheInfiniteTsukuyomi\TreeOfLife\TreeOfLife\bin\Debug\TreeOfLife.pdb
+D:\Workspace\TheInfiniteTsukuyomi\TreeOfLife\TreeOfLife\obj\Debug\TreeOfLife.csprojResolveAssemblyReference.cache
+D:\Workspace\TheInfiniteTsukuyomi\TreeOfLife\TreeOfLife\obj\Debug\TreeOfLife.BranchListForm.resources
+D:\Workspace\TheInfiniteTsukuyomi\TreeOfLife\TreeOfLife\obj\Debug\TreeOfLife.BranchManager.resources
+D:\Workspace\TheInfiniteTsukuyomi\TreeOfLife\TreeOfLife\obj\Debug\TreeOfLife.Properties.Resources.resources
+D:\Workspace\TheInfiniteTsukuyomi\TreeOfLife\TreeOfLife\obj\Debug\TreeOfLife.csproj.GenerateResource.Cache

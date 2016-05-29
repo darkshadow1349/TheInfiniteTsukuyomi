@@ -1,1 +1,2 @@
 D:\Workspace\InfiniteTsukuyomi\Old\Branch\Branch\bin\Debug\Branch.exe.config
+D:\Workspace\TheInfiniteTsukuyomi\Old\Branch\Branch\bin\Debug\Branch.exe.config

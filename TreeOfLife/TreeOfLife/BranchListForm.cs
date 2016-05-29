@@ -45,14 +45,14 @@ namespace TreeOfLife
                     IPEndPoint ip = (IPEndPoint)socket.RemoteEndPoint;
                     toolStripStatusLabel1.Text = ip + " has been captured in the Infinite Tsukuyomi";
                     StreamReader reader = new StreamReader(new NetworkStream(socket));
+                    
                     string[] data_received = reader.ReadLine().Split(',');
-                    Branches.Add(new Branch(i, ip.ToString(), data_received[0], data_received[1], data_received[2], true, new NetworkStream(socket)));
+                    Branches.Add(new Branch(i, ip.ToString(), data_received[0], data_received[1], data_received[2], true, socket));
                     string[] grid_data = { ip.ToString(), data_received[0], data_received[1], data_received[2] };
                     reader.Close();
                     InitializeGrid(grid_data);
                     i++;
-
-                    if(!started)
+                    if (!started)
                     {
                         break;
                     }
@@ -106,7 +106,7 @@ namespace TreeOfLife
             try
             {
                 BranchGrid.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-                string ip = BranchGrid.CurrentRow.Cells["IPAddress"].Value.ToString();
+                string ip = BranchGrid.CurrentRow.Cells["IP_Address"].Value.ToString();
                 BranchManager control = new BranchManager(GetBranch(ip));
                 control.Show();
             }
